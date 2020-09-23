@@ -2,5 +2,5 @@
 
 ### Code dev/lib Folder
 
-The lib directory contains various files with function definitions and computation codes for your data analysis. 
+The dev directory contains the .ipynb file that has the computation codes uesd in my data analysis.
 

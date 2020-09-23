@@ -2,4 +2,4 @@
 
 ### Figs folder
 
-The figs directory contains the figures. This directory only contains generated files; that is, one should always be able to delete the contents and regenerate them.
+The figs directory contains 4 .png files generated from my analysis, as well as two .jpeg files that contain pictures used in the initial README.md file.
