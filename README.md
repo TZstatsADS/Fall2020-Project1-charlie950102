@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2020
 
-+ Project title: How Americans Vote
++ Project title: Young Voters and Party Affiliation
 + This project is conducted by Charles Shin.
 
 + Project summary: As the 2020 election is coming up, both the Republican and Democratic parties are bolstering efforts to appeal to a wide range of voters. A key group in this election is young people (aged between 18-29), the majority of whom will now be eligible to vote for the first time in their lives. Given today’s widespread use of social media among young generations, as well as the increasingly polarized nature of the political climate that can even run across families, it is no surprise that young voters are paying more attention to the 2020 election than ever before. According to an analysis by researchers at Tuft University’s Center for Information & Research on Civic Learning and Engagement (CIRCLE), youth vote (aged between 18-29) increased in all 42 states for which youth voting data is available, with researchers estimating that 28.2% of young people voted in the 2018 midterms -- more than double the national turnout in 2014 (https://www.cnn.com/2020/01/02/opinions/young-voters-midterm-elections-solomont-glickman/index.html). 
